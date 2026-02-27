@@ -45,7 +45,9 @@ we got the flag!
 
 # Lessons Learned
 
-don't use encryption incorrectly 
+- Avoid ECB Mode: Never use Electronic Codebook (ECB) mode for sensitive data; always use more secure modes like GCM (Galois/Counter Mode) or CBC (Cipher Block Chaining) with a unique IV.
+
+- Secrets Management: Sensitive cryptographic keys and IVs should never be exposed in client-side source code (JavaScript), as they can be easily intercepted during enumeration.
 
 # Recommendations 
 
