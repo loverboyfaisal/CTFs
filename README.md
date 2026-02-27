@@ -1,3 +1,3 @@
-# Offensive_Security_Labs
-# Web Labs
-[OWSAP_Top_10_2025_AS04_Cryptographic_Faliuers](https://medium.com/@LoverBoyFaisal/owsap-as04-cryptographic-faliuers-8295d691ef3b)
+# Offensive Security Labs
+## [Web penetration testing](web_penetration_testing)
+[OWSAPTop10_2021 AS04 Cryptographic Faliuers](web_penetration_testing/OWSAP_AS04_Cryptographic_Faliuers.md)
