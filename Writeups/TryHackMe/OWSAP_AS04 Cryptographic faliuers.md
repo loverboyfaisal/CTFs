@@ -19,7 +19,7 @@ http://10.49.145.228:5004/
 After we deployed the machine `10.49.145.228`
 let's investigate `http://10.49.145.228:5004/`
 
-![1](../../../images/AS04_Cryptographic_Faliuers_1.png)
+![1](/../../images/AS04_Cryptographic_Faliuers_1.png)
 #### Misconfiguration
 encrypted Document : 
 ```
