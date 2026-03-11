@@ -28,7 +28,7 @@ Nzd42HZGgUIUlpILZRv0jeIXp1WtCErwR+j/w/lnKbmug31opX0BWy+pwK92rkhjwdf94mgHfLtF26X6
 
 First intercepting **HTTP REQUEST & RESPONSE** for this `http://10.49.145.228:5004/` to view source code if there client-side source code we can use
 
-![3](../images/AS04_Cryptographic_Faliuers_3.png)
+![3](../../images/AS04_Cryptographic_Faliuers_3.png)
 
 there is GET method with interesting file name let's open it
 
@@ -40,7 +40,7 @@ const ENCRYPTION_MODE = "ECB";
 ```
 ECB is week [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) Cipher mode encryption
 Lets decrypt it using "Misconfiguration" i will use this online [tool](https://anycript.com/crypto) . we will just fill those boxes using
-![6](../images/AS04_Cryptographic_Faliuers_6.png)
+![6](../../images/AS04_Cryptographic_Faliuers_6.png)
 we got the flag!
 
 # Lessons Learned
