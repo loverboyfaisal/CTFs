@@ -140,7 +140,7 @@ systemctl enable --now /tmp/root.service
 
 now we have shell with root privilege let's catch it ...
 
-![image](.//../images/vuln-5_clean.png)
+![image](../../images/vuln-5_clean.png)
 
 ## flag
 
