@@ -181,6 +181,6 @@ export PATH=/tmp:$PATH
 ```
 
 When we select option 1 this time, the SUID binary attempts to run `curl`, finds our fake executable in `/tmp` first, and executes it with root privileges.
-![[ken-9.png]
+![image](../../images/ken-9_clean.png)
 _Root shell obtained. Root flag captured._
-![[ken-10.png]]
+![image](../../images/ken-10_clean.png)
