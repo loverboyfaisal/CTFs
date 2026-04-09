@@ -1,7 +1,10 @@
 # Overview
 Machine : [Startup](https://tryhackme.com/room/startup/)
+
 Platform : [Tryhackme](https://tryhackme.com/)
+
 Difficulty : easy
+
 Category : Linux & Web
 
 # Enumeration
