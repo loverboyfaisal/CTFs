@@ -10,3 +10,5 @@
 
 [Linux=>kenobi](Writeups/TryHackMe/kenobi.md)
 
+[Linux=>startup](Writeups/TryHackMe/Startup.md)
+
