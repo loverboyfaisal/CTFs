@@ -32,7 +32,7 @@ First intercepting **HTTP REQUEST & RESPONSE** for this `http://10.49.145.228:50
 
 there is GET method with interesting file name let's open it
 
-![2](../images/AS04_Cryptographic_Faliuers_2.png)
+![2](../../images/AS04_Cryptographic_Faliuers_2.png)
 
 there is unhidden important variables . Breaking those variables down we can notice that 
 ```javascript
