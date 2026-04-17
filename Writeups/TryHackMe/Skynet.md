@@ -1,3 +1,14 @@
+# [Skeynet](https://tryhackme.com/room/skynet)
+**Summary:**
+
+The attack follows a classic enumeration → credential harvesting → web exploitation → privilege escalation path.
+
+Initial reconnaissance reveals multiple exposed services, with SMB and a webmail interface standing out. Anonymous SMB access leaks internal data, which indirectly provides material useful for credential attacks. These credentials are then reused to gain access to a mail system, where further sensitive information is exposed through user communications.
+
+This information enables deeper access into internal resources, uncovering hidden web directories and administrative functionality. A vulnerable web component is identified and exploited via remote file inclusion, allowing remote code execution and a foothold on the system.
+
+After gaining a shell, the attacker stabilizes access and performs local enumeration. A kernel vulnerability is discovered and exploited to escalate privileges, ultimately achieving full system compromise.
+
 # Enumeration
 Nmap scan 
 ```bash
