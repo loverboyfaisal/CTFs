@@ -22,3 +22,5 @@
 9. [Windows=>HackerPark](Writeups/TryHackMe/HackPark.md)
 
 10. [Linux=>Game Zone](Writeups/TryHackMe/Game_Zone.md)
+
+11. [Linux=>Skynet](Writeups/TryHackMe/Skynet.md)
