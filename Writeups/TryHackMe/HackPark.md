@@ -222,4 +222,5 @@ msf> upload Message.exe
 ![image](../../images/hac-10_clean.png)
 
 **Root Flag**
+
 ![image](../../images/hac-11_clean.png)
