@@ -1,4 +1,4 @@
-# CTFs
+# CTF
 ![image](images/root_clean.png)
 
 # [Try Hack Me](Writeups/TryHackMe)
