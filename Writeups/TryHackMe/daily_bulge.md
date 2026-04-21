@@ -1,5 +1,3 @@
-Here is the enhanced and professionally formatted version of your CTF writeup:
-
 # [Try Hack me : Daily Bugle Writeup](https://tryhackme.com/room/dailybugle)
 
 
