@@ -28,3 +28,5 @@
 12. [Linux=>Overpass2](Writeups/TryHackMe/overpass2.md)
 
 13. [Windows=>Relevent](Writeups/TryHackMe/relevent.md)
+
+14. [Linux=>Internal](Writeups/TryHackMe/internal.md)
