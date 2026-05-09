@@ -36,3 +36,5 @@
 16. [Windows=>Retro](Writeups/TryHackMe/retro.md)
 
 17. [Linux=>Basic Pentest](Writeups/TryHackMe/basic_pentest.md)
+
+18. [Linux=>creative](Writeups/TryHackMe/creative.md)
