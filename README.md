@@ -38,3 +38,5 @@
 17. [Linux=>Basic Pentest](Writeups/TryHackMe/basic_pentest.md)
 
 18. [Linux=>creative](Writeups/TryHackMe/creative.md)
+
+18. [Linux=>Wonderland](Writeups/TryHackMe/wonderland.md)
