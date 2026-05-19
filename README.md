@@ -42,3 +42,5 @@
 18. [Linux=>Wonderland](Writeups/TryHackMe/wonderland.md)
 
 19. [Linux=>Valley](Writeups/TryHackMe/valley.md)
+
+19. [Linux=>U.A. High School](Writeups/TryHackMe/U.A.HighSchool.md)
